@@ -1,0 +1,9 @@
+# Mac OS X
+.DS_Store
+
+# VS
+.vscode/
+
+# Python
+.pyc
+__pycache__/
